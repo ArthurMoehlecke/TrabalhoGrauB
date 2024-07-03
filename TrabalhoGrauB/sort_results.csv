@@ -1,0 +1,25 @@
+Array Size,Sort Method,Scenario,Time (ns)
+128,BubbleSort,Ascending,131200
+128,BubbleSort,Descending,226400
+128,BubbleSort,Random No Duplicates,193800
+128,BubbleSort,Random With Duplicates,187200
+128,InsertionSort,Ascending,38200
+128,InsertionSort,Descending,132800
+128,InsertionSort,Random No Duplicates,69300
+128,InsertionSort,Random With Duplicates,73800
+128,SelectionSort,Ascending,110300
+128,SelectionSort,Descending,106900
+128,SelectionSort,Random No Duplicates,108500
+128,SelectionSort,Random With Duplicates,107500
+128,HeapSort,Ascending,66700
+128,HeapSort,Descending,49300
+128,HeapSort,Random No Duplicates,56600
+128,HeapSort,Random With Duplicates,16300
+128,ShellSort,Ascending,21500
+128,ShellSort,Descending,27800
+128,ShellSort,Random No Duplicates,39200
+128,ShellSort,Random With Duplicates,34000
+128,MergeSort,Ascending,62100
+128,MergeSort,Descending,56600
+128,MergeSort,Random No Duplicates,66100
+128,MergeSort,Random With Duplicates,37500
